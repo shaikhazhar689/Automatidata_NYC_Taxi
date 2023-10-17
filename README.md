@@ -1,4 +1,4 @@
-# Automatidata
+# About 
 
 ## **Project Title: NYC TLC Taxi Fare Estimation**
 
