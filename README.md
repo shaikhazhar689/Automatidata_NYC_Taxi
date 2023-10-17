@@ -15,16 +15,15 @@ Provide recommendations for fare estimation improvements.
 
 ### Tools and Libraries
 
-Jupyter Notebook
-Python
-NumPy
-pandas
-Matplotlib
-scikit-learn
-RandomForestClassifier
-XGBClassifier
+Jupyter Notebook,
+Python,
+NumPy,
+pandas,
+Matplotlib,
+scikit-learn,
+RandomForestClassifier,
+XGBClassifier,
 GridSearchCV
-Data:
 
 ### Approach
 
