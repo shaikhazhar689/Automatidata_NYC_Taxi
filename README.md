@@ -1,6 +1,6 @@
 # About 
 
-## **Project Title: NYC TLC Taxi Fare Estimation**
+## **Project Title: NYC TLC Taxi Fare Estimation With Regression Model**
 
 ### Project Overview
 
