@@ -8,10 +8,10 @@ This project in collaboration with the New York City Taxi and Limousine Commissi
 
 **Task**
 
-Perform exploratory data analysis (EDA) on the TLC dataset.
-Develop regression models to predict taxi fares.
-Evaluate model performance and select the best approach.
-Provide recommendations for fare estimation improvements.
+Perform ***exploratory data analysis (EDA)*** on the TLC dataset.
+Develop ***regression models to predict taxi fares.***
+***Evaluate model performance*** and select the best approach.
+***Provide recommendations for fare estimation improvements.***
 
 **Tools and Libraries**
 
@@ -29,15 +29,15 @@ GridSearchCV
 
 Load and preprocess the dataset.
 
-Perform data cleaning, handling missing values and outliers.
+Perform data ***cleaning***, handling ***missing values*** and ***outliers***.
 
 Visualize data to gain insights.
 
-Train regression models, including RandomForest and XGBoost.
+Train regression models, including ***RandomForest*** and ***XGBoost***.
 
-Evaluate model performance using metrics like Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).
+Evaluate model performance using metrics like ***Mean Absolute Error (MAE)*** and ***Root Mean Square Error (RMSE)***.
 
-Optimize models using hyperparameter tuning.
+Optimize models using ***hyperparameter tuning.***
 
 Select the best-performing model for fare estimation.
 
